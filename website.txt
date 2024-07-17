@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pedro Rojas - Writer & Animator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        a {
+            color: #1a0dab;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .social-links a {
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Pedro Rojas</h1>
+        <p>Writer & Animator</p>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>Hi, I'm Pedro Rojas. I'm 13 years old and currently working on an Indie animated pilot. I have a passion for storytelling and animation, and I'm excited to share my work with the world.</p>
+    </section>
+    <section>
+        <h2>My Feats</h2>
+        <ul>
+            <li>Currently developing an Indie animated pilot</li>
+            <!-- Add more achievements here -->
+        </ul>
+    </section>
+    <section>
+        <h2>My Portfolio</h2>
+        <ul>
+            <li><a href="#">Project 1</a></li>
+            <li><a href="#">Project 2</a></li>
+            <!-- Add more portfolio items here -->
+        </ul>
+    </section>
+    <section class="social-links">
+        <h2>Connect with Me</h2>
+        <ul>
+            <li><a href="https://twitter.com/your_twitter_handle">Twitter</a></li>
+            <li><a href="https://discord.com/your_discord_handle">Discord</a></li>
+            <li><a href="https://youtube.com/your_youtube_channel">YouTube</a></li>
+        </ul>
+    </section>
+</body>
+</html>
